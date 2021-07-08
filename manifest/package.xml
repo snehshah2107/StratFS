@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Strategic_Financial_Solutions</members>
+		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>Calculate_Debt</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>calculateDebt</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>51.0</version>
+</Package>
